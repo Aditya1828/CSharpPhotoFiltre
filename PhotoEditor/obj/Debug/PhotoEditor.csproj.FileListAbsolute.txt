@@ -1,0 +1,13 @@
+E:\cours\ISN\project photo editor\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe.config
+E:\cours\ISN\project photo editor\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe
+E:\cours\ISN\project photo editor\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.pdb
+E:\cours\ISN\project photo editor\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csprojResolveAssemblyReference.cache
+E:\cours\ISN\project photo editor\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.Properties.Resources.resources
+E:\cours\ISN\project photo editor\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.GenerateResource.Cache
+E:\cours\ISN\project photo editor\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.exe
+E:\cours\ISN\project photo editor\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.pdb
+E:\cours\ISN\project photo editor\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.MainFrm.resources
+E:\cours\ISN\project photo editor\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe.manifest
+E:\cours\ISN\project photo editor\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.application
+E:\cours\ISN\project photo editor\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.exe.manifest
+E:\cours\ISN\project photo editor\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.application
